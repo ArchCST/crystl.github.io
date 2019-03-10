@@ -1,0 +1,8 @@
+.main-pics {
+  margin-top: 80px;
+}
+
+body {
+  background-image: url(pics/bg.png);
+  background-repeat: repeat;
+}
